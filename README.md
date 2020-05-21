@@ -1,0 +1,2 @@
+# q2pro-project-ubuntu
+This is a q2pro client/server build for Ubuntu Linux. *NOTE* HTTP Download functionalities are not working at this time, however UDP will be the primary method for client/server connectivity. If your interested and would like to figure the HTTP DL issue please do so. HTTP has very great implications regarding data retrieval for multiplayer and downloads for custom server content upon connection.
